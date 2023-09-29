@@ -1,0 +1,3 @@
+1:[Car(name=Nissan, carModel=PICKUP, engineCapacity=1), Car(name=Ford, carModel=SALOON, engineCapacity=1), Car(name=Ford, carModel=SALOON, engineCapacity=1), Car(name=Toyota, carModel=CABRIOLET, engineCapacity=1)]
+2:[Car(name=Toyota, carModel=SALOON, engineCapacity=2), Car(name=HAMMER, carModel=CABRIOLET, engineCapacity=2)]
+3:[Car(name=Ford, carModel=CABRIOLET, engineCapacity=3), Car(name=Nissan, carModel=CABRIOLET, engineCapacity=3), Car(name=Nissan, carModel=CABRIOLET, engineCapacity=3), Car(name=Ford, carModel=PICKUP, engineCapacity=3)]
